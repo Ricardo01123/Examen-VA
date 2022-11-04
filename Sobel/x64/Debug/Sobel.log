@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\angel\OneDrive - Instituto Politecnico Nacional\5BM1\Vision Artiicial\1er parcial\Examen Vision Artificial\Sobel\Sobel\main.cpp(41,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angel\OneDrive - Instituto Politecnico Nacional\5BM1\Vision Artiicial\1er parcial\Examen Vision Artificial\Sobel\Sobel\main.cpp(45,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angel\OneDrive - Instituto Politecnico Nacional\5BM1\Vision Artiicial\1er parcial\Examen Vision Artificial\Sobel\Sobel\main.cpp(46,37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angel\OneDrive - Instituto Politecnico Nacional\5BM1\Vision Artiicial\1er parcial\Examen Vision Artificial\Sobel\Sobel\main.cpp(47,50): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angel\OneDrive - Instituto Politecnico Nacional\5BM1\Vision Artiicial\1er parcial\Examen Vision Artificial\Sobel\Sobel\main.cpp(169,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\angel\OneDrive - Instituto Politecnico Nacional\5BM1\Vision Artiicial\1er parcial\Examen Vision Artificial\Sobel\Sobel\main.cpp(170,59): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\angel\OneDrive - Instituto Politecnico Nacional\5BM1\Vision Artiicial\1er parcial\Examen Vision Artificial\Sobel\Sobel\main.cpp(283,69): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\angel\OneDrive - Instituto Politecnico Nacional\5BM1\Vision Artiicial\1er parcial\Examen Vision Artificial\Sobel\Sobel\main.cpp(333,23): error C3861: 'copiarImgARelleno': no se encontró el identificador
